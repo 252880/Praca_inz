@@ -3,7 +3,7 @@ Oprogramowanie systemu sterowania niskiego poziomu dla platform mobilnych z ró�
 
 Finalnym produktem otrzymanym w ramach pracy jest oprogramowanie, które
 umożliwia:
-• regulację prędkości,
+#• regulację prędkości,
 • obsługę zdarzeń awaryjnych,
 • realizację różnych trybów sterowania,
 • konfigurację sterownika,
