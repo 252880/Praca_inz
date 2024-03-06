@@ -1,0 +1,7 @@
+Debug/
+*.ioc
+.cproject
+.mxproject
+.project
+.settings/
+*.ld
